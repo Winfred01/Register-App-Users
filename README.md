@@ -1,4 +1,3 @@
-# Register-App-Users
 # User Registration Validation System
 
 ## Introduction
